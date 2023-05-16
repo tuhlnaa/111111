@@ -5,6 +5,8 @@ kraken 測試
 
 kraken 測試2
 github
+8888
+
 ※ Repositories for learning Git commands 
 
 ※ Git 指令學習用的儲存庫
